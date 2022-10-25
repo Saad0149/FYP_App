@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "792546836992",
+    "project_id": "bleapp-7e669",
+    "storage_bucket": "bleapp-7e669.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:792546836992:android:c479ac4e310bf4c6b48ee5",
+        "android_client_info": {
+          "package_name": "com.example.fyp_appv1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "792546836992-edh7rogi41ficgea2ulm3ijo5h2lg98i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDCMhxZFqpHxxsRgUOcKWJ6mTj71PyAFLA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "792546836992-edh7rogi41ficgea2ulm3ijo5h2lg98i.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
